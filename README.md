@@ -1,2 +1,1 @@
-# py-django-restframework
-a2
+# python-course-a2
